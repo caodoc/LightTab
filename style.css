@@ -1,0 +1,14 @@
+*
+{
+    box-sizing: border-box;
+}
+
+body
+{
+    overflow: auto;
+    background-image: url("./background.jpg");
+    background-color: #3A3A40;
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}

@@ -1,0 +1,16 @@
+{
+    "name": "LightTab",
+    "manifest_version": 3,
+    "author": "dochicao2306@proton.me",  
+    "version": "1.0",
+    "description": "An extension makes your newtab simple with just a background",
+    "icons": 
+    {
+        "16": "icons/icon16.png",
+        "32": "icons/icon32.png"
+    },
+    "chrome_url_overrides": 
+    {
+        "newtab": "index.html"
+    }
+}
